@@ -1,4 +1,4 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/214821df-b6fa-455e-ae88-3a8572feaa4e" /><h1 align="center">Hi 👋, I'm Fares Elabasery</h1>
+<h1 align="center">Hi 👋, I'm Fares Elabasery</h1>
 <h3 align="center">A passionate frontend developer | React.js | Next.js</h3>
 
 <img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' />
