@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fares Elabasery</h1>
 <h3 align="center">A passionate frontend developer | React.js | Next.js</h3>
+
+<img src='https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif' />
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=fareselabasery&label=Profile%20views&color=0e75b6&style=flat" alt="fareselabasery" /> </p>
-<p align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /> </p>
 - 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FaresElabasery?tab=repositories](https://github.com/FaresElabasery?tab=repositories)
